@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>Session2</name>
+            <creation-uuid>affe8340-4892-46ff-a3b2-16b1e5980e76</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions/>
+            <asminc-extensions/>
+            <sourceEncoding>UTF-8</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>PWM</sourceRootElem>
+                <sourceRootElem>Timer</sourceRootElem>
+                <sourceRootElem>UART</sourceRootElem>
+                <sourceRootElem>Task1-Timer</sourceRootElem>
+                <sourceRootElem>Task2-PWM</sourceRootElem>
+                <sourceRootElem>Task3-ADC-UART</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>task1_timer</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>task2_pwm</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>task3_uart</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>

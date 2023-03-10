@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>Session1</name>
+            <creation-uuid>affe8340-4892-46ff-a3b2-16b1e5980e76</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions/>
+            <asminc-extensions/>
+            <sourceEncoding>UTF-8</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>Task1-blink</sourceRootElem>
+                <sourceRootElem>Task2-button</sourceRootElem>
+                <sourceRootElem>Task3-debouncing</sourceRootElem>
+                <sourceRootElem>Task4-extra</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>task1_blink</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>task2_button</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>task3_debouncing</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>task4_extra</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>
